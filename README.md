@@ -1,4 +1,4 @@
-# BÀI KIỂM TRA - CÂU 2
+# BÀI KIỂM TRA 
 - Họ và tên: Đỗ Minh Khoa
 - MSSV: 2500114713
 
