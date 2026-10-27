@@ -49,7 +49,10 @@ class MainActivity : AppCompatActivity() {
                 else -> {
                     tvStatus.text = "Đăng nhập hợp lệ"
                     tvStatus.setTextColor(0xFF008000.toInt())
-
+                    // Chuyển sang ProfileActivity + truyền email
+                    val intent = Intent(this, ProfileActivity::class.java)
+                    intent.putExtra("EMAIL", email)
+                    startActivity(intent)
                 }
             }
         }
