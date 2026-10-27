@@ -1,6 +1,11 @@
-BÀI KIỂM TRA - CÂU 2
+# BÀI KIỂM TRA - CÂU 2
 - Họ và tên: Đỗ Minh Khoa
 - MSSV: 2500114713
 
-![cau2_profile_intent.png](cau2_profile_intent.png)
-![cau2_logout.png](cau2_logout.png)
+## Ảnh chụp minh chứng Câu 1
+![Validation Failed](KhongThanhCong.png)
+![Validation Success](ThanhCong.png)
+
+## Ảnh chụp minh chứng Câu 2
+![Profile Intent](cau2_profile_intent.png)
+![Logout Action](cau2_logout.png)
